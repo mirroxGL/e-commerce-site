@@ -1,3 +1,16 @@
+# General info
+
+Built a modern e-commerce web store. What's included: the main page 
+with products, a PDP page with the possibility to change attributes 
+of a product, a mobile cart of chosen products, and the main cart for 
+purchasing.
+
+# Technologies
+
+*React.js/Redux
+*CSS/HTML
+*GraphQL
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
