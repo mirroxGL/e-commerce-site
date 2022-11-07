@@ -8,7 +8,9 @@ purchasing.
 # Technologies
 
 *React.js/Redux
+
 *CSS/HTML
+
 *GraphQL
 
 # Getting Started with Create React App
