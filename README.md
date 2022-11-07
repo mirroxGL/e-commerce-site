@@ -13,7 +13,9 @@ purchasing.
 
 *GraphQL
 
-# Access to endpoint: https://github.com/scandiweb/junior-react-endpoint/
+# Access to endpoint:
+
+GitHub: https://github.com/scandiweb/junior-react-endpoint/
 
 # Getting Started with Create React App
 
